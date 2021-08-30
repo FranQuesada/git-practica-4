@@ -1,4 +1,4 @@
-create table clientes(
+ create table clientes(
                          id int primary key auto_increment,
                          nombre varchar(50),
                          apellido1 varchar(50),
